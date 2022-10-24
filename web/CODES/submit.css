@@ -1,0 +1,17 @@
+
+body { 
+
+   
+    background-image: url("/web/images/white.webp");
+
+    
+}
+
+.insttructions {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+
+}
+
+.ol {
+    border: 1px solid #665544;
+}
