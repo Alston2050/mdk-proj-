@@ -1,6 +1,15 @@
 body {
-    background-color:#D4E7FE ;
+ 
     background-image: url("/web/images/DBEMS.jpg");
+    background-repeat: no-repeat;
+    background-size: 1100px 520px;
 }
 
+
+header{
+
+    background-color: blue;
+    text-align: center;
+color: white;
+}
 
