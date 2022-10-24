@@ -3,8 +3,10 @@ body {
     background-image: url("/web/images/DBEMS.jpg");
     background-repeat: no-repeat;
     background-size: 1100px 520px;
+    display:flex; flex-direction:column;
 }
 
+article{ flex:1; }
 
 header{
 
@@ -20,3 +22,7 @@ color: white;
     background-size: 11px 5px;
 
 }
+
+
+footer{ min-height:50px;  }
+
