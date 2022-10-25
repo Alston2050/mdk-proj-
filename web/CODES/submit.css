@@ -2,7 +2,7 @@
 body { 
 
    
-    background-image: url("/web/images/white.webp");
+    background-image: url("/web/images/ranger-4df6c1b6.png");
 
     
 }
@@ -13,5 +13,24 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .ol {
-    border: 1px solid #665544;
+    border: 1px solid #07e630;
+}
+
+
+  .headero{
+background-color: blue;
+text-align: center;
+
+
+  }
+  h2{
+
+text-decoration: underline;
+  }
+
+  div{
+
+    background-image: url(/web/images/ranger-4df6c1b6.png);
+    width: 100%;
+    height: auto;
 }
