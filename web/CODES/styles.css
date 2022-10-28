@@ -1,6 +1,6 @@
 body {
  
-    background-image: url("/web/ima");
+    background-image: url("/web/images/DBEMS.jpg");
     background-repeat: no-repeat;
     background-size: 1100px 520px;
     display:flex; flex-direction:column;
@@ -10,7 +10,7 @@ article{ flex:1; }
 
 header{
 
-    background-color: blue;
+    background-color: rgba(0, 0, 0, 0.868);
     text-align: center;
 color: white;
 }
@@ -26,17 +26,56 @@ color: white;
 
 footer{ min-height:50px;  }
 
-.imagee{
+#quote {
+    background-color: #42414D;
+    
+    text-align: center;
+    color: aliceblue;
+}
+.a .b {
+    width: 31.3%;
+    float: left;
+    margin: 1%;
 
-    background-image: url(/web/images/ranger-4df6c1b6.png);
+
 }
 
-div{
-text-align: center;
+.image1{
+    height: 500px; 
+    /* says the height of the image */
 
+    border: 3px solid rgb(0, 0, 0) ;  
+    border-radius: 100px;                              
+    /* makes the border */
+ 
+ 
+    background: url('/images/mental\ health.png');
+    
+    background-repeat: no-repeat;
+    /* dosent repeat the background */
+    
+    background-position: center;
+    
+    background-size: contain;
+    /* says the size of the background */
+
+    text-align: center;
 }
 
-.blue{
-background-color: blue ;
+.facts{
+    text-align: center;
+}
+
+#login {
+    height: 100px; 
+    border-image-width: 150px;
+    
+
+
+}
+#moto {
+    text-align: center;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
