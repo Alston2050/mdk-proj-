@@ -1,6 +1,6 @@
 body {
  
-    background-image: url("/web/images/DBEMS.jpg");
+    background-image: url("/web/ima");
     background-repeat: no-repeat;
     background-size: 1100px 520px;
     display:flex; flex-direction:column;
@@ -29,4 +29,14 @@ footer{ min-height:50px;  }
 .imagee{
 
     background-image: url(/web/images/ranger-4df6c1b6.png);
+}
+
+div{
+text-align: center;
+
+}
+
+.blue{
+background-color: blue ;
+
 }
