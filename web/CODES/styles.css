@@ -1,10 +1,10 @@
-body {
+/* body {
  
     background-image: url("/web/images/DBEMS.jpg");
     background-repeat: no-repeat;
     background-size: 1100px 520px;
     display:flex; flex-direction:column;
-}
+} */
 
 article{ flex:1; }
 
@@ -49,7 +49,7 @@ footer{ min-height:50px;  }
     /* makes the border */
  
  
-    background: url('/images/mental\ health.png');
+    background: url('/web/images/mental\ health.png');
     
     background-repeat: no-repeat;
     /* dosent repeat the background */
@@ -77,5 +77,10 @@ footer{ min-height:50px;  }
     text-align: center;
     height: 100px;
     font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div{
+text-align: center;
 
 }
