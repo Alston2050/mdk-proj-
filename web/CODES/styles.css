@@ -6,6 +6,7 @@
     display:flex; flex-direction:column;
 } */
 
+
 article{ flex:1; }
 
 header{
@@ -77,7 +78,8 @@ footer{ min-height:50px;  }
     text-align: center;
     height: 100px;
     font-family: Arial, Helvetica, sans-serif;
-
+    background-color: #4e4b77;
+    color: aliceblue;
 }
 
 div{
