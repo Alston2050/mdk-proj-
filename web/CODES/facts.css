@@ -1,6 +1,6 @@
 body{
-    background-color: rgba(0, 0, 0, 0.808);
-    color: aliceblue;
+    background-color:rgba(0, 0, 0, 0.808);
+    color: rgb(255, 240, 240);
 }
 
 .para{
@@ -11,4 +11,15 @@ body{
 #facts{
     text-align: center;
     
+}
+#new {              
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+#quote{
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: larger;
+background-color: rgba(0, 0, 0, 0.877);
 }
