@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(0, 0, 0, 0.808);
+    color: aliceblue;
+}
+
+.para{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
