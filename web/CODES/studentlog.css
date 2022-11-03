@@ -2,6 +2,8 @@
     text-align: center;
 }
  body{
-    background-image: url('/web/images/bg2.jpg');
+    background-image: url('/web/images/bg06.jpg');
+    background-size: cover;
     background-repeat: no-repeat;
+
  }

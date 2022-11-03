@@ -50,7 +50,7 @@ footer{ min-height:50px;  }
     /* makes the border */
  
  
-    background: url('/web/images/mental\ health.png');
+    background: url('/web/images/bg7.png');
     
     background-repeat: no-repeat;
     /* dosent repeat the background */
@@ -59,7 +59,7 @@ footer{ min-height:50px;  }
     
     background-size: contain;
     /* says the size of the background */
-
+    
     text-align: center;
 }
 
