@@ -6,7 +6,11 @@
     display:flex; flex-direction:column;
 } */
 
-
+body{
+    background-image: url('/web/images/bg9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 article{ flex:1; }
 
 header{
