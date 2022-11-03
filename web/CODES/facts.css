@@ -1,6 +1,9 @@
 body{
-    background-color:rgba(0, 0, 0, 0.808);
-    color: rgb(255, 240, 240);
+    background-image: url('/web/images/b012.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgba(255, 244, 244, 0.829);
+    
 }
 
 .para{
@@ -21,5 +24,5 @@ body{
 text-align: center;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: larger;
-background-color: rgba(0, 0, 0, 0.877);
+
 }
