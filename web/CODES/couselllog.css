@@ -1,0 +1,11 @@
+body{
+    background-image: url('/web/images/bg2.jpg');
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.blue{
+    text-align: center;
+}
+#username {
+    text-align: center;
+}
