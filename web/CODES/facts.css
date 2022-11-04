@@ -2,7 +2,7 @@ body{
     background-image: url('/web/images/b012.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
-    color: rgba(255, 244, 244, 0.829);
+    color: azure;
     
 }
 
@@ -24,5 +24,10 @@ body{
 text-align: center;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: larger;
+
+}
+#home{
+    text-align: 100px;
+    
 
 }
