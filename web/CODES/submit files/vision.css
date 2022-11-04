@@ -1,3 +1,10 @@
-#gif{
+#new{
     text-align: center;
+}
+
+#img{
+    height: 350px;
+}
+*{
+    background-color: aquamarine;
 }
