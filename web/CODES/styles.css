@@ -36,6 +36,8 @@ footer{ min-height:50px;  }
     
     text-align: center;
     color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
 }
 .a .b {
     width: 31.3%;
@@ -54,7 +56,7 @@ footer{ min-height:50px;  }
     /* makes the border */
  
  
-    background: url('/web/images/bg7.png');
+    background: url('/web/images/—Pngtree—mental\ health\ problems\ flat\ illustration_6855455.png');
     
     background-repeat: no-repeat;
     /* dosent repeat the background */
@@ -81,7 +83,7 @@ footer{ min-height:50px;  }
 #moto {
     text-align: center;
     height: 100px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #4e4b77;
     color: aliceblue;
 }
@@ -89,4 +91,7 @@ footer{ min-height:50px;  }
 div{
 text-align: center;
 
+}
+#new1{
+    padding-top: 35px;
 }
