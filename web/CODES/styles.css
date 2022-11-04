@@ -15,9 +15,9 @@ article{ flex:1; }
 
 header{
 
-    background-color: rgba(0, 0, 0, 0.868);
+    /* background-color: rgba(0, 0, 0, 0.868); */
     text-align: center;
-color: white;
+/* color: white; */
 }
 
 .pen{
